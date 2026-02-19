@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות מזון עם תבשילים ביתיים טריים ומוכנים להזמנה. אוכל ביתי איכותי לאזרחים ותיקים ואנשים עסוקים. הזמינו עכשיו וקבלו מנות חמות עד הבית!
+
+### תפריט
+https://example.com/menu
+עיינו בתפריט המלא של מנות ביתיות מוכנות: תבשילים, מרקים, תבשילי בשר ועוף, תוספות ומאפים. מזון ביתי מוכן לאנשים עסוקים במחירים הוגנים.
+
+### אודות
+https://example.com/about
+הכירו את סימה ואת הסיפור מאחורי החנות: בישול ביתי אמיתי עם אהבה ומסירות. אוכל ביתי מוכן לאזרחים ותיקים ולכל מי שרוצה טעם של בית.
+
+### צור קשר
+https://example.com/contact
+צרו קשר להזמנת תבשילים ביתיים מוכנים, לשאלות או למידע נוסף. אנחנו כאן בשבילכם! טלפון, וואטסאפ או הגיעו לבקר אותנו בחנות המזון.
+
+### Products
+https://example.com/products
+המוצרים שלנו - תבשילי סימה
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - תבשילי סימה
+
+### Category
+https://example.com/category/:slug
+מוצרים - תבשילי סימה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
