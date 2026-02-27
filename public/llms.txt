@@ -1,79 +1,91 @@
-# Business — Generative Engine Optimization Map
+# תבשילי סימה — Generative Engine Optimization Map
+
+> A מזון ומסעדנות business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://simha-dishes.zappy5.app
 חנות מזון עם תבשילים ביתיים טריים ומוכנים להזמנה. אוכל ביתי איכותי לאזרחים ותיקים ואנשים עסוקים. הזמינו עכשיו וקבלו מנות חמות עד הבית!
 
 ### תפריט
-https://example.com/menu
+https://simha-dishes.zappy5.app/menu
 עיינו בתפריט המלא של מנות ביתיות מוכנות: תבשילים, מרקים, תבשילי בשר ועוף, תוספות ומאפים. מזון ביתי מוכן לאנשים עסוקים במחירים הוגנים.
 
 ### אודות
-https://example.com/about
+https://simha-dishes.zappy5.app/about
 הכירו את סימה ואת הסיפור מאחורי החנות: בישול ביתי אמיתי עם אהבה ומסירות. אוכל ביתי מוכן לאזרחים ותיקים ולכל מי שרוצה טעם של בית.
 
 ### צור קשר
-https://example.com/contact
+https://simha-dishes.zappy5.app/contact
 צרו קשר להזמנת תבשילים ביתיים מוכנים, לשאלות או למידע נוסף. אנחנו כאן בשבילכם! טלפון, וואטסאפ או הגיעו לבקר אותנו בחנות המזון.
 
 ### Products
-https://example.com/products
+https://simha-dishes.zappy5.app/products
 המוצרים שלנו - תבשילי סימה
 
 ### Cart
-https://example.com/cart
+https://simha-dishes.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://simha-dishes.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://simha-dishes.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://simha-dishes.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://simha-dishes.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://simha-dishes.zappy5.app/product/:slug
 פרטי המוצר - תבשילי סימה
 
 ### Category
-https://example.com/category/:slug
+https://simha-dishes.zappy5.app/category/:slug
 מוצרים - תבשילי סימה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://simha-dishes.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://simha-dishes.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://simha-dishes.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About תבשילי סימה
+תבשילי סימה is a business in the מזון ומסעדנות industry.
+
+## Target Audience
+- אוהבי תבשילים ביתיים
+- אנשי מקצוע עסוקים
+- אזרחים ותיקים
+
+## Industry
+מזון ומסעדנות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://simha-dishes.zappy5.app/sitemap.xml
+- **Robots.txt**: https://simha-dishes.zappy5.app/robots.txt
