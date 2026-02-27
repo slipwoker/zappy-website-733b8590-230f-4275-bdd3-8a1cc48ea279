@@ -1,6 +1,4 @@
-# תבשילי סימה — Generative Engine Optimization Map
-
-> A מזון ומסעדנות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -72,17 +70,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About תבשילי סימה
-תבשילי סימה is a business in the מזון ומסעדנות industry.
-
-## Target Audience
-- אוהבי תבשילים ביתיים
-- אנשי מקצוע עסוקים
-- אזרחים ותיקים
-
-## Industry
-מזון ומסעדנות
-
+## About Business
 ---
 
 # Additional Resources
